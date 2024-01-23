@@ -1,0 +1,33 @@
+/*? Bài Tập 1 */
+
+.tuyenSinh h5{
+    padding-top: 20px;
+}
+#txtKetQua{
+    font-size: 30px;
+    color: blue;
+}
+.btn{
+    margin: 20px 0;
+}
+
+/*? Bài Tập 2 */
+
+#txtTienDien{
+    font-size: 25px;
+}
+
+/*? Bài Tập 3 */
+
+#txtTienThue{
+    font-size: 25px;
+}
+
+/*? Bài Tập 4 */
+#labelKenh{
+    padding-top: 20px;
+}
+
+#txtTienCap{
+    font-size: 25px;
+}
